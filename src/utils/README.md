@@ -23,3 +23,7 @@ Dir structure is
 ### Examples of dataset
 <img src="../../pics/dataset.png" width="30%">
 
+### Download Link
+You can download from [here](https://drive.google.com/file/d/1w0U2hteEX4Q5cM8V7aO6ELsWERLMc1kQ/view?usp=sharing).  
+Please send request first.  
+Note: the file size is large(over 50GB).
