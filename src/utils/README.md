@@ -26,4 +26,5 @@ Dir structure is
 ### Download Link
 You can download from [here](https://drive.google.com/file/d/1w0U2hteEX4Q5cM8V7aO6ELsWERLMc1kQ/view?usp=sharing).  
 Please send request first.  
+If permissions are not given, please open an issue.
 Note: the file size is large(over 50GB).
